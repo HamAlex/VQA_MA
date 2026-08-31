@@ -1,0 +1,16 @@
+# Core Quantum Framework & Algorithms
+qiskit==2.4.1
+qiskit-aer==0.17.2
+qiskit-algorithms==0.4.0
+qiskit-nature==0.7.2
+
+# Quantum Chemistry Driver
+pyscf==2.13.0
+
+# Data & Visualization
+numpy==2.4.6
+scipy==1.17.1
+pandas==3.0.3
+matplotlib==3.10.9
+seaborn==0.13.2
+pylatexenc==2.10
